@@ -1,0 +1,10 @@
+C:\Users\fuent\source\repos\BOOL\BOOL\obj\Debug\BOOL.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\BOOL\BOOL\obj\Debug\BOOL.Form1.resources
+C:\Users\fuent\source\repos\BOOL\BOOL\obj\Debug\BOOL.Properties.Resources.resources
+C:\Users\fuent\source\repos\BOOL\BOOL\obj\Debug\BOOL.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\BOOL\BOOL\obj\Debug\BOOL.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\BOOL\BOOL\bin\Debug\BOOL.exe.config
+C:\Users\fuent\source\repos\BOOL\BOOL\bin\Debug\BOOL.exe
+C:\Users\fuent\source\repos\BOOL\BOOL\bin\Debug\BOOL.pdb
+C:\Users\fuent\source\repos\BOOL\BOOL\obj\Debug\BOOL.exe
+C:\Users\fuent\source\repos\BOOL\BOOL\obj\Debug\BOOL.pdb

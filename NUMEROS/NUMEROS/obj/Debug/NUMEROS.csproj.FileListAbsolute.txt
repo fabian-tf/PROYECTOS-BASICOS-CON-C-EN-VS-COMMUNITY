@@ -1,0 +1,10 @@
+C:\Users\fuent\source\repos\NUMEROS\NUMEROS\bin\Debug\NUMEROS.exe.config
+C:\Users\fuent\source\repos\NUMEROS\NUMEROS\bin\Debug\NUMEROS.exe
+C:\Users\fuent\source\repos\NUMEROS\NUMEROS\bin\Debug\NUMEROS.pdb
+C:\Users\fuent\source\repos\NUMEROS\NUMEROS\obj\Debug\NUMEROS.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\NUMEROS\NUMEROS\obj\Debug\NUMEROS.Form1.resources
+C:\Users\fuent\source\repos\NUMEROS\NUMEROS\obj\Debug\NUMEROS.Properties.Resources.resources
+C:\Users\fuent\source\repos\NUMEROS\NUMEROS\obj\Debug\NUMEROS.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\NUMEROS\NUMEROS\obj\Debug\NUMEROS.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\NUMEROS\NUMEROS\obj\Debug\NUMEROS.exe
+C:\Users\fuent\source\repos\NUMEROS\NUMEROS\obj\Debug\NUMEROS.pdb

@@ -1,0 +1,10 @@
+C:\Users\fuent\source\repos\APRENDIZAJE\APRENDIZAJE\bin\Debug\APRENDIZAJE.exe.config
+C:\Users\fuent\source\repos\APRENDIZAJE\APRENDIZAJE\bin\Debug\APRENDIZAJE.exe
+C:\Users\fuent\source\repos\APRENDIZAJE\APRENDIZAJE\bin\Debug\APRENDIZAJE.pdb
+C:\Users\fuent\source\repos\APRENDIZAJE\APRENDIZAJE\obj\Debug\APRENDIZAJE.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\APRENDIZAJE\APRENDIZAJE\obj\Debug\APRENDIZAJE.Form1.resources
+C:\Users\fuent\source\repos\APRENDIZAJE\APRENDIZAJE\obj\Debug\APRENDIZAJE.Properties.Resources.resources
+C:\Users\fuent\source\repos\APRENDIZAJE\APRENDIZAJE\obj\Debug\APRENDIZAJE.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\APRENDIZAJE\APRENDIZAJE\obj\Debug\APRENDIZAJE.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\APRENDIZAJE\APRENDIZAJE\obj\Debug\APRENDIZAJE.exe
+C:\Users\fuent\source\repos\APRENDIZAJE\APRENDIZAJE\obj\Debug\APRENDIZAJE.pdb
