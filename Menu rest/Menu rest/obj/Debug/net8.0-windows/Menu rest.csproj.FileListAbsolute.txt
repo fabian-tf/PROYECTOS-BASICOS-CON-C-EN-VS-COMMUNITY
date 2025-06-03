@@ -1,0 +1,40 @@
+C:\Users\fuent\source\repos\Menu rest\Menu\bin\Debug\net8.0-windows\Menu rest.exe
+C:\Users\fuent\source\repos\Menu rest\Menu\bin\Debug\net8.0-windows\Menu rest.deps.json
+C:\Users\fuent\source\repos\Menu rest\Menu\bin\Debug\net8.0-windows\Menu rest.runtimeconfig.json
+C:\Users\fuent\source\repos\Menu rest\Menu\bin\Debug\net8.0-windows\Menu rest.dll
+C:\Users\fuent\source\repos\Menu rest\Menu\bin\Debug\net8.0-windows\Menu rest.pdb
+C:\Users\fuent\source\repos\Menu rest\Menu\bin\Debug\net8.0-windows\MySql.data.dll
+C:\Users\fuent\source\repos\Menu rest\Menu\bin\Debug\net8.0-windows\MySql.data.xml
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\Menu rest.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\Inventario_restaurant.Inventario.resources
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\Menu rest.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\Menu rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\Menu rest.AssemblyInfoInputs.cache
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\Menu rest.AssemblyInfo.cs
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\Menu rest.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\Menu rest.csproj.Up2Date
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\Menu rest.dll
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\refint\Menu rest.dll
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\Menu rest.pdb
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\Menu rest.genruntimeconfig.cache
+C:\Users\fuent\source\repos\Menu rest\Menu\obj\Debug\net8.0-windows\ref\Menu rest.dll
+C:\Users\fuent\source\repos\Menu rest\Menu rest\bin\Debug\net8.0-windows\Menu rest.exe
+C:\Users\fuent\source\repos\Menu rest\Menu rest\bin\Debug\net8.0-windows\Menu rest.deps.json
+C:\Users\fuent\source\repos\Menu rest\Menu rest\bin\Debug\net8.0-windows\Menu rest.runtimeconfig.json
+C:\Users\fuent\source\repos\Menu rest\Menu rest\bin\Debug\net8.0-windows\Menu rest.dll
+C:\Users\fuent\source\repos\Menu rest\Menu rest\bin\Debug\net8.0-windows\Menu rest.pdb
+C:\Users\fuent\source\repos\Menu rest\Menu rest\bin\Debug\net8.0-windows\MySql.data.dll
+C:\Users\fuent\source\repos\Menu rest\Menu rest\bin\Debug\net8.0-windows\MySql.data.xml
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\Menu rest.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\Inventario_restaurant.Inventario.resources
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\Menu rest.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\Menu rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\Menu rest.AssemblyInfoInputs.cache
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\Menu rest.AssemblyInfo.cs
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\Menu rest.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\Menu rest.csproj.Up2Date
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\Menu rest.dll
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\refint\Menu rest.dll
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\Menu rest.pdb
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\Menu rest.genruntimeconfig.cache
+C:\Users\fuent\source\repos\Menu rest\Menu rest\obj\Debug\net8.0-windows\ref\Menu rest.dll

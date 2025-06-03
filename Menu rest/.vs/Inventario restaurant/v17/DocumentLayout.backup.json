@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fuent\\source\\repos\\Inventario restaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37EC550D-97C2-4C1B-B993-4A2985A79D61}|Inventario restaurant\\Inventario restaurant.csproj|c:\\users\\fuent\\source\\repos\\inventario restaurant\\inventario restaurant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37EC550D-97C2-4C1B-B993-4A2985A79D61}|Inventario restaurant\\Inventario restaurant.csproj|solutionrelative:inventario restaurant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EC550D-97C2-4C1B-B993-4A2985A79D61}|Inventario restaurant\\Inventario restaurant.csproj|c:\\users\\fuent\\source\\repos\\inventario restaurant\\inventario restaurant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EC550D-97C2-4C1B-B993-4A2985A79D61}|Inventario restaurant\\Inventario restaurant.csproj|solutionrelative:inventario restaurant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EC550D-97C2-4C1B-B993-4A2985A79D61}|Inventario restaurant\\Inventario restaurant.csproj|c:\\users\\fuent\\source\\repos\\inventario restaurant\\inventario restaurant\\conexion_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37EC550D-97C2-4C1B-B993-4A2985A79D61}|Inventario restaurant\\Inventario restaurant.csproj|solutionrelative:inventario restaurant\\conexion_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CONEXION_BD.cs",
+              "DocumentMoniker": "C:\\Users\\fuent\\source\\repos\\Inventario restaurant\\Inventario restaurant\\CONEXION_BD.cs",
+              "RelativeDocumentMoniker": "Inventario restaurant\\CONEXION_BD.cs",
+              "ToolTip": "C:\\Users\\fuent\\source\\repos\\Inventario restaurant\\Inventario restaurant\\CONEXION_BD.cs",
+              "RelativeToolTip": "Inventario restaurant\\CONEXION_BD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:49:05.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fuent\\source\\repos\\Inventario restaurant\\Inventario restaurant\\Form1.cs",
+              "RelativeDocumentMoniker": "Inventario restaurant\\Form1.cs",
+              "ToolTip": "C:\\Users\\fuent\\source\\repos\\Inventario restaurant\\Inventario restaurant\\Form1.cs",
+              "RelativeToolTip": "Inventario restaurant\\Form1.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAUwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:43:42.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fuent\\source\\repos\\Inventario restaurant\\Inventario restaurant\\Form1.cs",
+              "RelativeDocumentMoniker": "Inventario restaurant\\Form1.cs",
+              "ToolTip": "C:\\Users\\fuent\\source\\repos\\Inventario restaurant\\Inventario restaurant\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inventario restaurant\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:11:27.726Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
