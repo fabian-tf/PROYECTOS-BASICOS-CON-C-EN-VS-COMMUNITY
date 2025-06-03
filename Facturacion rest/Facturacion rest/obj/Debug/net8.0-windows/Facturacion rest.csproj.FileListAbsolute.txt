@@ -1,0 +1,25 @@
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\Facturacion rest.exe
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\Facturacion rest.deps.json
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\Facturacion rest.runtimeconfig.json
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\Facturacion rest.dll
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\Facturacion rest.pdb
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\MySql.data.dll
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\MySql.data.xml
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\Facturacion rest.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\Facturacion rest.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\Facturacion rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\Facturacion rest.AssemblyInfoInputs.cache
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\Facturacion rest.AssemblyInfo.cs
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\Facturacion rest.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\Facturac.D84CCB06.Up2Date
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\Facturacion rest.dll
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\refint\Facturacion rest.dll
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\Facturacion rest.pdb
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\Facturacion rest.genruntimeconfig.cache
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\ref\Facturacion rest.dll
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\Facturas.deps.json
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\Facturas.runtimeconfig.json
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\Facturas.exe
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\Facturas.dll
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\bin\Debug\net8.0-windows\Facturas.pdb
+C:\Users\fuent\source\repos\Facturacion rest\Facturacion rest\obj\Debug\net8.0-windows\Facturacion_rest.Fac.resources
