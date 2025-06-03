@@ -1,0 +1,10 @@
+C:\Users\fuent\source\repos\valor pesos\valor pesos\bin\Debug\valor pesos.exe.config
+C:\Users\fuent\source\repos\valor pesos\valor pesos\bin\Debug\valor pesos.exe
+C:\Users\fuent\source\repos\valor pesos\valor pesos\bin\Debug\valor pesos.pdb
+C:\Users\fuent\source\repos\valor pesos\valor pesos\obj\Debug\valor pesos.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\valor pesos\valor pesos\obj\Debug\valor_pesos.Form1.resources
+C:\Users\fuent\source\repos\valor pesos\valor pesos\obj\Debug\valor_pesos.Properties.Resources.resources
+C:\Users\fuent\source\repos\valor pesos\valor pesos\obj\Debug\valor pesos.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\valor pesos\valor pesos\obj\Debug\valor pesos.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\valor pesos\valor pesos\obj\Debug\valor pesos.exe
+C:\Users\fuent\source\repos\valor pesos\valor pesos\obj\Debug\valor pesos.pdb

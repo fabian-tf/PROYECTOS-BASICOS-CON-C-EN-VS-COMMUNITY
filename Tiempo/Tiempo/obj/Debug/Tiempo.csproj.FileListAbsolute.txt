@@ -1,0 +1,5 @@
+C:\Users\fuent\source\repos\Tiempo\Tiempo\obj\Debug\Tiempo.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\Tiempo\Tiempo\obj\Debug\Tiempo.Form1.resources
+C:\Users\fuent\source\repos\Tiempo\Tiempo\obj\Debug\Tiempo.Properties.Resources.resources
+C:\Users\fuent\source\repos\Tiempo\Tiempo\obj\Debug\Tiempo.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\Tiempo\Tiempo\obj\Debug\Tiempo.csproj.CoreCompileInputs.cache
