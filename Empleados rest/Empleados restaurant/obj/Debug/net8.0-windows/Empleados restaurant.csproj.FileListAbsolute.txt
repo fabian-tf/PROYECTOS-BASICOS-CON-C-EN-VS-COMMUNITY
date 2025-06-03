@@ -1,0 +1,40 @@
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\bin\Debug\net8.0-windows\Empleados restaurant.exe
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\bin\Debug\net8.0-windows\Empleados restaurant.deps.json
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\bin\Debug\net8.0-windows\Empleados restaurant.runtimeconfig.json
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\bin\Debug\net8.0-windows\Empleados restaurant.dll
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\bin\Debug\net8.0-windows\Empleados restaurant.pdb
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\bin\Debug\net8.0-windows\MySql.data.dll
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\bin\Debug\net8.0-windows\MySql.data.xml
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.AssemblyInfoInputs.cache
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.AssemblyInfo.cs
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\Empleado.F9E4DECC.Up2Date
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.dll
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\refint\Empleados restaurant.dll
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.pdb
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.genruntimeconfig.cache
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\ref\Empleados restaurant.dll
+C:\Users\fuent\source\repos\Empleados restaurant\Empleados restaurant\obj\Debug\net8.0-windows\Empleados_restaurant.Empleados.resources
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\bin\Debug\net8.0-windows\Empleados restaurant.exe
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\bin\Debug\net8.0-windows\Empleados restaurant.deps.json
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\bin\Debug\net8.0-windows\Empleados restaurant.runtimeconfig.json
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\bin\Debug\net8.0-windows\Empleados restaurant.dll
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\bin\Debug\net8.0-windows\Empleados restaurant.pdb
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\bin\Debug\net8.0-windows\MySql.data.dll
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\bin\Debug\net8.0-windows\MySql.data.xml
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\Empleados_restaurant.Empleados.resources
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.AssemblyInfoInputs.cache
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.AssemblyInfo.cs
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\Empleado.F9E4DECC.Up2Date
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.dll
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\refint\Empleados restaurant.dll
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.pdb
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\Empleados restaurant.genruntimeconfig.cache
+C:\Users\fuent\source\repos\Empleados rest\Empleados restaurant\obj\Debug\net8.0-windows\ref\Empleados restaurant.dll
