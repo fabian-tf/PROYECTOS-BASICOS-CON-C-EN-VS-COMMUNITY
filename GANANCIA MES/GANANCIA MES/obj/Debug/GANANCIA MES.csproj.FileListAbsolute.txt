@@ -1,0 +1,10 @@
+C:\Users\fuent\source\repos\GANANCIA MES\GANANCIA MES\bin\Debug\GANANCIA MES.exe.config
+C:\Users\fuent\source\repos\GANANCIA MES\GANANCIA MES\bin\Debug\GANANCIA MES.exe
+C:\Users\fuent\source\repos\GANANCIA MES\GANANCIA MES\bin\Debug\GANANCIA MES.pdb
+C:\Users\fuent\source\repos\GANANCIA MES\GANANCIA MES\obj\Debug\GANANCIA MES.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\GANANCIA MES\GANANCIA MES\obj\Debug\GANANCIA_MES.Form1.resources
+C:\Users\fuent\source\repos\GANANCIA MES\GANANCIA MES\obj\Debug\GANANCIA_MES.Properties.Resources.resources
+C:\Users\fuent\source\repos\GANANCIA MES\GANANCIA MES\obj\Debug\GANANCIA MES.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\GANANCIA MES\GANANCIA MES\obj\Debug\GANANCIA MES.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\GANANCIA MES\GANANCIA MES\obj\Debug\GANANCIA MES.exe
+C:\Users\fuent\source\repos\GANANCIA MES\GANANCIA MES\obj\Debug\GANANCIA MES.pdb

@@ -1,0 +1,10 @@
+C:\Users\fuent\source\repos\gramos a libras\gramos a libras\obj\Debug\gramos a libras.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\gramos a libras\gramos a libras\obj\Debug\gramos_a_libras.Form1.resources
+C:\Users\fuent\source\repos\gramos a libras\gramos a libras\obj\Debug\gramos_a_libras.Properties.Resources.resources
+C:\Users\fuent\source\repos\gramos a libras\gramos a libras\obj\Debug\gramos a libras.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\gramos a libras\gramos a libras\obj\Debug\gramos a libras.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\gramos a libras\gramos a libras\bin\Debug\gramos a libras.exe.config
+C:\Users\fuent\source\repos\gramos a libras\gramos a libras\bin\Debug\gramos a libras.exe
+C:\Users\fuent\source\repos\gramos a libras\gramos a libras\bin\Debug\gramos a libras.pdb
+C:\Users\fuent\source\repos\gramos a libras\gramos a libras\obj\Debug\gramos a libras.exe
+C:\Users\fuent\source\repos\gramos a libras\gramos a libras\obj\Debug\gramos a libras.pdb

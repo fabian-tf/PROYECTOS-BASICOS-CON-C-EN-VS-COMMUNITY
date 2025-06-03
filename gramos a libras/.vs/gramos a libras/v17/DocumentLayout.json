@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fuent\\source\\repos\\gramos a libras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEDD437-7048-4239-96CF-217566E3A2E5}|gramos a libras\\gramos a libras.csproj|c:\\users\\fuent\\source\\repos\\gramos a libras\\gramos a libras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2BEDD437-7048-4239-96CF-217566E3A2E5}|gramos a libras\\gramos a libras.csproj|solutionrelative:gramos a libras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEDD437-7048-4239-96CF-217566E3A2E5}|gramos a libras\\gramos a libras.csproj|C:\\Users\\fuent\\source\\repos\\gramos a libras\\gramos a libras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BEDD437-7048-4239-96CF-217566E3A2E5}|gramos a libras\\gramos a libras.csproj|solutionrelative:gramos a libras\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fuent\\source\\repos\\gramos a libras\\gramos a libras\\Form1.cs",
+              "RelativeDocumentMoniker": "gramos a libras\\Form1.cs",
+              "ToolTip": "C:\\Users\\fuent\\source\\repos\\gramos a libras\\gramos a libras\\Form1.cs",
+              "RelativeToolTip": "gramos a libras\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvxkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:02:38.699Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fuent\\source\\repos\\gramos a libras\\gramos a libras\\Form1.cs",
+              "RelativeDocumentMoniker": "gramos a libras\\Form1.cs",
+              "ToolTip": "C:\\Users\\fuent\\source\\repos\\gramos a libras\\gramos a libras\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "gramos a libras\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T14:36:55.913Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
