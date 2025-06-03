@@ -1,0 +1,20 @@
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\bin\Debug\net8.0-windows\Inventario rest.exe
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\bin\Debug\net8.0-windows\Inventario rest.deps.json
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\bin\Debug\net8.0-windows\Inventario rest.runtimeconfig.json
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\bin\Debug\net8.0-windows\Inventario rest.dll
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\bin\Debug\net8.0-windows\Inventario rest.pdb
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\Inventario_rest.Form1.resources
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\Inventario rest.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\Inventario rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\Inventario rest.AssemblyInfoInputs.cache
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\Inventario rest.AssemblyInfo.cs
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\Inventario rest.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\Inventario rest.dll
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\refint\Inventario rest.dll
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\Inventario rest.pdb
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\Inventario rest.genruntimeconfig.cache
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\ref\Inventario rest.dll
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\bin\Debug\net8.0-windows\MySql.data.dll
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\bin\Debug\net8.0-windows\MySql.data.xml
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\Inventario rest.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\Inventario rest\Inventario rest\obj\Debug\net8.0-windows\Inventar.12A8554B.Up2Date
