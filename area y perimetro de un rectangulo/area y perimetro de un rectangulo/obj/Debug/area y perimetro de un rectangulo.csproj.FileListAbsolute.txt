@@ -1,0 +1,10 @@
+C:\Users\fuent\source\repos\area y perimetro de un rectangulo\area y perimetro de un rectangulo\bin\Debug\area y perimetro de un rectangulo.exe.config
+C:\Users\fuent\source\repos\area y perimetro de un rectangulo\area y perimetro de un rectangulo\bin\Debug\area y perimetro de un rectangulo.exe
+C:\Users\fuent\source\repos\area y perimetro de un rectangulo\area y perimetro de un rectangulo\bin\Debug\area y perimetro de un rectangulo.pdb
+C:\Users\fuent\source\repos\area y perimetro de un rectangulo\area y perimetro de un rectangulo\obj\Debug\area y perimetro de un rectangulo.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\area y perimetro de un rectangulo\area y perimetro de un rectangulo\obj\Debug\area_y_perimetro_de_un_rectangulo.Form1.resources
+C:\Users\fuent\source\repos\area y perimetro de un rectangulo\area y perimetro de un rectangulo\obj\Debug\area_y_perimetro_de_un_rectangulo.Properties.Resources.resources
+C:\Users\fuent\source\repos\area y perimetro de un rectangulo\area y perimetro de un rectangulo\obj\Debug\area y perimetro de un rectangulo.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\area y perimetro de un rectangulo\area y perimetro de un rectangulo\obj\Debug\area y perimetro de un rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\area y perimetro de un rectangulo\area y perimetro de un rectangulo\obj\Debug\area y perimetro de un rectangulo.exe
+C:\Users\fuent\source\repos\area y perimetro de un rectangulo\area y perimetro de un rectangulo\obj\Debug\area y perimetro de un rectangulo.pdb

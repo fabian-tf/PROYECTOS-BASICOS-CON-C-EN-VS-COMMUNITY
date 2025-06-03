@@ -1,0 +1,10 @@
+C:\Users\fuent\source\repos\SUMA\SUMA\obj\Debug\SUMA.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\SUMA\SUMA\obj\Debug\SUMA.Form1.resources
+C:\Users\fuent\source\repos\SUMA\SUMA\obj\Debug\SUMA.Properties.Resources.resources
+C:\Users\fuent\source\repos\SUMA\SUMA\obj\Debug\SUMA.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\SUMA\SUMA\obj\Debug\SUMA.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\SUMA\SUMA\bin\Debug\SUMA.exe.config
+C:\Users\fuent\source\repos\SUMA\SUMA\bin\Debug\SUMA.exe
+C:\Users\fuent\source\repos\SUMA\SUMA\bin\Debug\SUMA.pdb
+C:\Users\fuent\source\repos\SUMA\SUMA\obj\Debug\SUMA.exe
+C:\Users\fuent\source\repos\SUMA\SUMA\obj\Debug\SUMA.pdb

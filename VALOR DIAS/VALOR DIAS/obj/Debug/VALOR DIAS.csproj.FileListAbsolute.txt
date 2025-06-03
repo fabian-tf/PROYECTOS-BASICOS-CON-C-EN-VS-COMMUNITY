@@ -1,0 +1,10 @@
+C:\Users\fuent\source\repos\VALOR DIAS\VALOR DIAS\obj\Debug\VALOR DIAS.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\VALOR DIAS\VALOR DIAS\obj\Debug\VALOR_DIAS.Form1.resources
+C:\Users\fuent\source\repos\VALOR DIAS\VALOR DIAS\obj\Debug\VALOR_DIAS.Properties.Resources.resources
+C:\Users\fuent\source\repos\VALOR DIAS\VALOR DIAS\obj\Debug\VALOR DIAS.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\VALOR DIAS\VALOR DIAS\obj\Debug\VALOR DIAS.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\VALOR DIAS\VALOR DIAS\bin\Debug\VALOR DIAS.exe.config
+C:\Users\fuent\source\repos\VALOR DIAS\VALOR DIAS\bin\Debug\VALOR DIAS.exe
+C:\Users\fuent\source\repos\VALOR DIAS\VALOR DIAS\bin\Debug\VALOR DIAS.pdb
+C:\Users\fuent\source\repos\VALOR DIAS\VALOR DIAS\obj\Debug\VALOR DIAS.exe
+C:\Users\fuent\source\repos\VALOR DIAS\VALOR DIAS\obj\Debug\VALOR DIAS.pdb

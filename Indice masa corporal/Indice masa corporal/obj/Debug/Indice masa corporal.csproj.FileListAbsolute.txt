@@ -1,0 +1,10 @@
+C:\Users\fuent\source\repos\Indice masa corporal\Indice masa corporal\bin\Debug\Indice masa corporal.exe.config
+C:\Users\fuent\source\repos\Indice masa corporal\Indice masa corporal\bin\Debug\Indice masa corporal.exe
+C:\Users\fuent\source\repos\Indice masa corporal\Indice masa corporal\bin\Debug\Indice masa corporal.pdb
+C:\Users\fuent\source\repos\Indice masa corporal\Indice masa corporal\obj\Debug\Indice masa corporal.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\Indice masa corporal\Indice masa corporal\obj\Debug\Indice_masa_corporal.Form1.resources
+C:\Users\fuent\source\repos\Indice masa corporal\Indice masa corporal\obj\Debug\Indice_masa_corporal.Properties.Resources.resources
+C:\Users\fuent\source\repos\Indice masa corporal\Indice masa corporal\obj\Debug\Indice masa corporal.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\Indice masa corporal\Indice masa corporal\obj\Debug\Indice masa corporal.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\Indice masa corporal\Indice masa corporal\obj\Debug\Indice masa corporal.exe
+C:\Users\fuent\source\repos\Indice masa corporal\Indice masa corporal\obj\Debug\Indice masa corporal.pdb
