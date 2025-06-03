@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Empleados rest\Empleados restaurant\Empleados restaurant.csproj" />
+    <ProjectReference Include="..\..\Facturacion rest\Facturacion rest\Facturacion rest.csproj" />
+    <ProjectReference Include="..\..\Inventario rest\Inventario rest\Inventario rest.csproj" />
+    <ProjectReference Include="..\..\Menu rest\Menu rest\Menu rest.csproj" />
+  </ItemGroup>
+
+</Project>

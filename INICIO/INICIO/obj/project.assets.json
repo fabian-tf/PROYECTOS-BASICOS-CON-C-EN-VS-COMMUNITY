@@ -1,0 +1,196 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Empleados restaurant/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Empleados restaurant.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Empleados restaurant.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Facturacion rest/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Facturas": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Facturacion rest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Facturacion rest.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Facturas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Facturas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Facturas.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Inventario rest/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Inventario rest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Inventario rest.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Menu rest/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Menu rest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Menu rest.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Empleados restaurant/1.0.0": {
+      "type": "project",
+      "path": "../../Empleados rest/Empleados restaurant/Empleados restaurant.csproj",
+      "msbuildProject": "../../Empleados rest/Empleados restaurant/Empleados restaurant.csproj"
+    },
+    "Facturacion rest/1.0.0": {
+      "type": "project",
+      "path": "../../Facturacion rest/Facturacion rest/Facturacion rest.csproj",
+      "msbuildProject": "../../Facturacion rest/Facturacion rest/Facturacion rest.csproj"
+    },
+    "Facturas/1.0.0": {
+      "type": "project",
+      "path": "../../Facturas/Facturas/Facturas.csproj",
+      "msbuildProject": "../../Facturas/Facturas/Facturas.csproj"
+    },
+    "Inventario rest/1.0.0": {
+      "type": "project",
+      "path": "../../Inventario rest/Inventario rest/Inventario rest.csproj",
+      "msbuildProject": "../../Inventario rest/Inventario rest/Inventario rest.csproj"
+    },
+    "Menu rest/1.0.0": {
+      "type": "project",
+      "path": "../../Menu rest/Menu rest/Menu rest.csproj",
+      "msbuildProject": "../../Menu rest/Menu rest/Menu rest.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Empleados restaurant >= 1.0.0",
+      "Facturacion rest >= 1.0.0",
+      "Inventario rest >= 1.0.0",
+      "Menu rest >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\fuent\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\fuent\\source\\repos\\INICIO\\INICIO\\INICIO.csproj",
+      "projectName": "INICIO",
+      "projectPath": "C:\\Users\\fuent\\source\\repos\\INICIO\\INICIO\\INICIO.csproj",
+      "packagesPath": "C:\\Users\\fuent\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fuent\\source\\repos\\INICIO\\INICIO\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\fuent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\fuent\\source\\repos\\Empleados rest\\Empleados restaurant\\Empleados restaurant.csproj": {
+              "projectPath": "C:\\Users\\fuent\\source\\repos\\Empleados rest\\Empleados restaurant\\Empleados restaurant.csproj"
+            },
+            "C:\\Users\\fuent\\source\\repos\\Facturacion rest\\Facturacion rest\\Facturacion rest.csproj": {
+              "projectPath": "C:\\Users\\fuent\\source\\repos\\Facturacion rest\\Facturacion rest\\Facturacion rest.csproj"
+            },
+            "C:\\Users\\fuent\\source\\repos\\Inventario rest\\Inventario rest\\Inventario rest.csproj": {
+              "projectPath": "C:\\Users\\fuent\\source\\repos\\Inventario rest\\Inventario rest\\Inventario rest.csproj"
+            },
+            "C:\\Users\\fuent\\source\\repos\\Menu rest\\Menu rest\\Menu rest.csproj": {
+              "projectPath": "C:\\Users\\fuent\\source\\repos\\Menu rest\\Menu rest\\Menu rest.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
