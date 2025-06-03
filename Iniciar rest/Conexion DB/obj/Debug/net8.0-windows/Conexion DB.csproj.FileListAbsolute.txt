@@ -1,0 +1,90 @@
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Conexion DB.exe
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Conexion DB.deps.json
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Conexion DB.runtimeconfig.json
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Conexion DB.dll
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Conexion DB.pdb
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\Conexion_DB.Form1.resources
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.AssemblyInfoInputs.cache
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.AssemblyInfo.cs
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\Conexion.158B2BEA.Up2Date
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.dll
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\refint\Conexion DB.dll
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.pdb
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.genruntimeconfig.cache
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\obj\Debug\net8.0-windows\ref\Conexion DB.dll
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\INTERFAZ.deps.json
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\INTERFAZ.runtimeconfig.json
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Empleados restaurant.deps.json
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Empleados restaurant.runtimeconfig.json
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Empleados restaurant.exe
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\FINANZAS.deps.json
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\FINANZAS.runtimeconfig.json
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\FINANZAS.exe
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Inventario restaurant.deps.json
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Inventario restaurant.runtimeconfig.json
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Inventario restaurant.exe
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\INTERFAZ.exe
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Empleados restaurant.dll
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\FINANZAS.dll
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\INTERFAZ.dll
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Inventario restaurant.dll
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\INTERFAZ.pdb
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Empleados restaurant.pdb
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\FINANZAS.pdb
+C:\Users\fuent\source\repos\Conexion DB\Conexion DB\bin\Debug\net8.0-windows\Inventario restaurant.pdb
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\INICIO.deps.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\INICIO.runtimeconfig.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Empleados restaurant.deps.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Empleados restaurant.runtimeconfig.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Empleados restaurant.exe
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Facturacion rest.deps.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Facturacion rest.runtimeconfig.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Facturas.deps.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Facturas.runtimeconfig.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Facturas.exe
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Facturacion rest.exe
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Inventario rest.deps.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Inventario rest.runtimeconfig.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Inventario rest.exe
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Menu rest.deps.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Menu rest.runtimeconfig.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Menu rest.exe
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\INICIO.exe
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Conexion DB.exe
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Conexion DB.deps.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Conexion DB.runtimeconfig.json
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Conexion DB.dll
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Conexion DB.pdb
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Empleados restaurant.dll
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Facturacion rest.dll
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Facturas.dll
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\INICIO.dll
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Inventario rest.dll
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Menu rest.dll
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\INICIO.pdb
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Empleados restaurant.pdb
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Facturacion rest.pdb
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Facturas.pdb
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Inventario rest.pdb
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\Menu rest.pdb
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\Conexion_DB.Form1.resources
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.AssemblyInfoInputs.cache
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.AssemblyInfo.cs
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\Conexion.158B2BEA.Up2Date
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.dll
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\refint\Conexion DB.dll
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.pdb
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\Conexion DB.genruntimeconfig.cache
+C:\Users\fuent\source\repos\Iniciar rest\Conexion DB\obj\Debug\net8.0-windows\ref\Conexion DB.dll
