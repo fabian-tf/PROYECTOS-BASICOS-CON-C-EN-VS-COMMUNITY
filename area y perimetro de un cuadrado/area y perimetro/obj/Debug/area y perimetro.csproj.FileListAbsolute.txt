@@ -1,0 +1,10 @@
+C:\Users\fuent\source\repos\area y perimetro\area y perimetro\obj\Debug\area y perimetro.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\area y perimetro\area y perimetro\obj\Debug\area_y_perimetro.Form1.resources
+C:\Users\fuent\source\repos\area y perimetro\area y perimetro\obj\Debug\area_y_perimetro.Properties.Resources.resources
+C:\Users\fuent\source\repos\area y perimetro\area y perimetro\obj\Debug\area y perimetro.csproj.GenerateResource.cache
+C:\Users\fuent\source\repos\area y perimetro\area y perimetro\obj\Debug\area y perimetro.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\area y perimetro\area y perimetro\bin\Debug\area y perimetro.exe.config
+C:\Users\fuent\source\repos\area y perimetro\area y perimetro\bin\Debug\area y perimetro.exe
+C:\Users\fuent\source\repos\area y perimetro\area y perimetro\bin\Debug\area y perimetro.pdb
+C:\Users\fuent\source\repos\area y perimetro\area y perimetro\obj\Debug\area y perimetro.exe
+C:\Users\fuent\source\repos\area y perimetro\area y perimetro\obj\Debug\area y perimetro.pdb
