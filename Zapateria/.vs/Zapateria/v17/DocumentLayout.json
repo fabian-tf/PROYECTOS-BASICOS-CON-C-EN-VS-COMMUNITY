@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fuent\\source\\repos\\Zapateria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E315A3EB-92C0-4579-ACC9-11126F278AA7}|Zapateria\\Zapateria.csproj|c:\\users\\fuent\\source\\repos\\zapateria\\zapateria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E315A3EB-92C0-4579-ACC9-11126F278AA7}|Zapateria\\Zapateria.csproj|solutionrelative:zapateria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E315A3EB-92C0-4579-ACC9-11126F278AA7}|Zapateria\\Zapateria.csproj|C:\\Users\\fuent\\source\\repos\\Zapateria\\zapateria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E315A3EB-92C0-4579-ACC9-11126F278AA7}|Zapateria\\Zapateria.csproj|solutionrelative:zapateria\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E315A3EB-92C0-4579-ACC9-11126F278AA7}|Zapateria\\Zapateria.csproj|c:\\users\\fuent\\source\\repos\\zapateria\\zapateria\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E315A3EB-92C0-4579-ACC9-11126F278AA7}|Zapateria\\Zapateria.csproj|solutionrelative:zapateria\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\fuent\\source\\repos\\Zapateria\\Zapateria\\Conexion.cs",
+              "RelativeDocumentMoniker": "Zapateria\\Conexion.cs",
+              "ToolTip": "C:\\Users\\fuent\\source\\repos\\Zapateria\\Zapateria\\Conexion.cs",
+              "RelativeToolTip": "Zapateria\\Conexion.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:59:28.392Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fuent\\source\\repos\\Zapateria\\Zapateria\\Form1.cs",
+              "RelativeDocumentMoniker": "Zapateria\\Form1.cs",
+              "ToolTip": "C:\\Users\\fuent\\source\\repos\\Zapateria\\Zapateria\\Form1.cs",
+              "RelativeToolTip": "Zapateria\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:58:27.866Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fuent\\source\\repos\\Zapateria\\Zapateria\\Form1.cs",
+              "RelativeDocumentMoniker": "Zapateria\\Form1.cs",
+              "ToolTip": "C:\\Users\\fuent\\source\\repos\\Zapateria\\Zapateria\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Zapateria\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:56:59.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
